@@ -1,0 +1,23 @@
+# Data (too large for git)
+Data/train.csv
+Data/test.csv
+
+# Keep sample_submission.csv (small, useful reference)
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Kaggle credentials
+kaggle.json
